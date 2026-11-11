@@ -10,6 +10,16 @@
     }
   },
   "defaultPage": "home",
+  "localScripts": [
+    {
+      "order": 1,
+      "path": "a.js"
+    },
+    {
+      "order": 2,
+      "path": "aa.js"
+    }
+  ],
   "name": "gh3732",
   "type": "app"
 }
