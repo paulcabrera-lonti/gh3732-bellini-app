@@ -10,14 +10,31 @@
     }
   },
   "defaultPage": "home",
+  "directories": {
+    "assets": [],
+    "components": [],
+    "pages": [
+      {
+        "id": "RvNpqpSLVpSDRg5NmrFul",
+        "name": "new"
+      }
+    ],
+    "scripts": [],
+    "services": [],
+    "stylesheets": []
+  },
   "localScripts": [
     {
       "order": 1,
-      "path": "a.js"
+      "parentDirectoryId": null,
+      "path": "a.js",
+      "properties": null
     },
     {
       "order": 2,
-      "path": "aa.js"
+      "parentDirectoryId": null,
+      "path": "aa.js",
+      "properties": null
     }
   ],
   "name": "gh3732",
